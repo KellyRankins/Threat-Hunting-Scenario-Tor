@@ -75,9 +75,9 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Josh Madakor
+- **Author Name**: Kelly Rankins
 - **Author Contact**: https://www.linkedin.com/in/kelly-rankins-0013682b8/
-- **Date**: August 31, 2024
+- **Date**: April 7, 2026
 
 ## Validated By:
 - **Reviewer Name**: 
